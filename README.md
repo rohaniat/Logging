@@ -6,7 +6,7 @@ This repository contains a Python-based encryption and decryption application wi
 
 - **encryption_app.py**: A Python script that implements encryption and decryption functions, potentially using a cipher like the Vigenère or AES. The script integrates logging to capture important events and errors.
 
--**encryption_app.txt**: A log.
+- **encryption_app.txt**: A log.
 
 ## Project Overview
 In this assignment, you will enhance a Python encryption application by adding logging functionality. The goal is to provide comprehensive logs that will help in debugging, monitoring, and understanding the application's behavior. Run the python code within Kali Linux, and ensure that the application's output is directed to appropriate log files.
