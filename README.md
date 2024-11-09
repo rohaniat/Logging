@@ -5,6 +5,7 @@ This repository contains a Python-based encryption and decryption application wi
 ## Files in this Repository
 
 - **encryption_app.py**: A Python script that implements encryption and decryption functions, potentially using a cipher like the Vigenère or AES. The script integrates logging to capture important events and errors.
+
 -**encryption_app.txt**: A log.
 
 ## Project Overview
